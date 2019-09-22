@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4e9c354-dd6c-4973-a36e-91b7416e7744" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="698" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QbQezda2XKvJTeKl92k2NxJHqL" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestGeoCountDownTimer">
+    <configuration name="TestGeoCountDownTimer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project1new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project1new" />
+      <option name="MAIN_CLASS_NAME" value="Project1new.TestGeoCountDownTimer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGeoCountDownTimer.testAddMethod5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project1new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project1new" />
+      <option name="MAIN_CLASS_NAME" value="Project1new.TestGeoCountDownTimer" />
+      <option name="METHOD_NAME" value="testAddMethod5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGeoCountDownTimer.testDaysInFuture1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project1new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project1new" />
+      <option name="MAIN_CLASS_NAME" value="Project1new.TestGeoCountDownTimer" />
+      <option name="METHOD_NAME" value="testDaysInFuture1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGeoCountDownTimer.testSubtractMethod6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project1new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project1new" />
+      <option name="MAIN_CLASS_NAME" value="Project1new.TestGeoCountDownTimer" />
+      <option name="METHOD_NAME" value="testSubtractMethod6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGeoCountDownTimer.testSubtractMethod7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project1new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project1new" />
+      <option name="MAIN_CLASS_NAME" value="Project1new.TestGeoCountDownTimer" />
+      <option name="METHOD_NAME" value="testSubtractMethod7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestGeoCountDownTimer" />
+      <item itemvalue="JUnit.TestGeoCountDownTimer.testDaysInFuture1" />
+      <item itemvalue="JUnit.TestGeoCountDownTimer.testSubtractMethod6" />
+      <item itemvalue="JUnit.TestGeoCountDownTimer.testSubtractMethod7" />
+      <item itemvalue="JUnit.TestGeoCountDownTimer.testAddMethod5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGeoCountDownTimer" />
+        <item itemvalue="JUnit.TestGeoCountDownTimer.testAddMethod5" />
+        <item itemvalue="JUnit.TestGeoCountDownTimer.testSubtractMethod7" />
+        <item itemvalue="JUnit.TestGeoCountDownTimer.testSubtractMethod6" />
+        <item itemvalue="JUnit.TestGeoCountDownTimer.testDaysInFuture1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e9c354-dd6c-4973-a36e-91b7416e7744" name="Default Changelist" comment="" />
+      <created>1568036916094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568036916094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Project1new/TestGeoCountDownTimer.java</url>
+          <line>442</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testDaysInFuture.ic" NAME="TestGeoCountDownTimer.testDaysInFuture Coverage Results" MODIFIED="1568685251224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testSetMonth.ic" NAME="TestGeoCountDownTimer.testSetMonth Coverage Results" MODIFIED="1568683831404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testConstructor4.ic" NAME="TestGeoCountDownTimer.testConstructor4 Coverage Results" MODIFIED="1568650450677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testSubtractMethod1.ic" NAME="TestGeoCountDownTimer.testSubtractMethod1 Coverage Results" MODIFIED="1568640778031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testSubtractMethod5.ic" NAME="TestGeoCountDownTimer.testSubtractMethod5 Coverage Results" MODIFIED="1568646458960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testSubtractMethod7.ic" NAME="TestGeoCountDownTimer.testSubtractMethod7 Coverage Results" MODIFIED="1568686581708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testDaysInFuture2.ic" NAME="TestGeoCountDownTimer.testDaysInFuture2 Coverage Results" MODIFIED="1568685439615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testConstructor2.ic" NAME="TestGeoCountDownTimer.testConstructor2 Coverage Results" MODIFIED="1568510610219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testLoadSave2.ic" NAME="TestGeoCountDownTimer.testLoadSave2 Coverage Results" MODIFIED="1568682258152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testSubtractMethod.ic" NAME="TestGeoCountDownTimer.testSubtractMethod Coverage Results" MODIFIED="1568209610285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testContuctor1.ic" NAME="TestGeoCountDownTimer.testContuctor1 Coverage Results" MODIFIED="1568226090851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testContuctor3.ic" NAME="TestGeoCountDownTimer.testContuctor3 Coverage Results" MODIFIED="1568168278942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testLoadSave4.ic" NAME="TestGeoCountDownTimer.testLoadSave4 Coverage Results" MODIFIED="1568683464344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testCompareTo3.ic" NAME="TestGeoCountDownTimer.testCompareTo3 Coverage Results" MODIFIED="1568659511342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testAddMethod.ic" NAME="TestGeoCountDownTimer.testAddMethod Coverage Results" MODIFIED="1568207143275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testConstructor9.ic" NAME="TestGeoCountDownTimer.testConstructor9 Coverage Results" MODIFIED="1568682035773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testConstructor5.ic" NAME="TestGeoCountDownTimer.testConstructor5 Coverage Results" MODIFIED="1568650642874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testLoadSave.ic" NAME="TestGeoCountDownTimer.testLoadSave Coverage Results" MODIFIED="1568512672941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testEqualdd.ic" NAME="TestGeoCountDownTimer.testEqualdd Coverage Results" MODIFIED="1568509728519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testSubtractMethod6.ic" NAME="TestGeoCountDownTimer.testSubtractMethod6 Coverage Results" MODIFIED="1568686265671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testDaysInFuture1.ic" NAME="TestGeoCountDownTimer.testDaysInFuture1 Coverage Results" MODIFIED="1568685907570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testConstructor3.ic" NAME="TestGeoCountDownTimer.testConstructor3 Coverage Results" MODIFIED="1568648503276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testDaysToGo.ic" NAME="TestGeoCountDownTimer.testDaysToGo Coverage Results" MODIFIED="1568647229312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testConstructor1.ic" NAME="TestGeoCountDownTimer.testConstructor1 Coverage Results" MODIFIED="1568650498667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testAddMethod7.ic" NAME="TestGeoCountDownTimer.testAddMethod7 Coverage Results" MODIFIED="1568681737968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testAddMethod5.ic" NAME="TestGeoCountDownTimer.testAddMethod5 Coverage Results" MODIFIED="1568687008207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testContuctor2.ic" NAME="TestGeoCountDownTimer.testContuctor2 Coverage Results" MODIFIED="1568168266726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testLoadSave3.ic" NAME="TestGeoCountDownTimer.testLoadSave3 Coverage Results" MODIFIED="1568683046811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer.ic" NAME="TestGeoCountDownTimer Coverage Results" MODIFIED="1568809679104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testCompareTo2.ic" NAME="TestGeoCountDownTimer.testCompareTo2 Coverage Results" MODIFIED="1568659333180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testCompareTo.ic" NAME="TestGeoCountDownTimer.testCompareTo Coverage Results" MODIFIED="1568513266618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Projects$TestGeoCountDownTimer_testCompareTo4.ic" NAME="TestGeoCountDownTimer.testCompareTo4 Coverage Results" MODIFIED="1568659568030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project1new.*</FILTER>
+    </SUITE>
+  </component>
+</project>
